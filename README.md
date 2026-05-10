@@ -9,7 +9,6 @@ You got tired of buggy HDT(Hearthstone Deck Tracker) plugins:
 **So I made this lightweight tool for the community. If it saves your MMR, consider buying me a coffee!**
 
 ## **[☕ Support me on Donatello](https://donatello.to/ArtDev)**
-##
 
 The **only** Hearthstone Battlegrounds reconnect tool that actually works without kicking you out of your party or Battle.net.
 
