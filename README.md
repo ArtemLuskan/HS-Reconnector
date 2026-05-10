@@ -6,7 +6,7 @@ If you played in a created group with your friend, the game will not reconnect y
 
 **So I made this lightweight tool for the community. If it saves your MMR, consider buying me a coffee!**
 
-**[💸 Support me on Donatello](https://donatello.to/TVIY_NICK)**
+**[💸 Support me on Donatello](https://donatello.to/ArtDev)**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The **only** Hearthstone Battlegrounds reconnect tool that actually works without kicking you out of your party or Battle.net.
