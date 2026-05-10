@@ -27,7 +27,12 @@ This gives you plenty of time to make your choices in the round and comfortable 
 
 <br>
 
-<img width="205" height="36" alt="image" src="https://github.com/user-attachments/assets/76d2efaf-208f-4176-9525-1e8f146802d4" />
+<img width="205" height="36" alt="image" src="https://github.com/user-attachments/assets/76d2efaf-208f-4176-9525-1e8f146802d4" /> <img width="205" height="35" alt="image" src="https://github.com/user-attachments/assets/93bf2763-6bcd-4ee0-8713-3f866292119f" />
+
+<br>
+
+
+
 
 <br>
 
@@ -36,3 +41,8 @@ This gives you plenty of time to make your choices in the round and comfortable 
 <br>
 
 <img width="631" height="521" alt="image" src="https://github.com/user-attachments/assets/01f6f299-bde8-4e6c-8f83-fb4fe6bb5518" /> 
+
+<br>
+
+<img width="366" height="615" alt="image" src="https://github.com/user-attachments/assets/b87dac5c-f536-4681-aa05-e4a9adf10e18" />
+
