@@ -2,11 +2,11 @@
 
 
 
-## **General** *f*
-You got tired of buggy HDT(Hearthstone Deck Tracker) plugins:
+## **General**
+*You got tired of buggy HDT(Hearthstone Deck Tracker) plugins:
 - require you to log into Battle.net every time you use them
 - when you use "Reconnect" button it completely crashes the game
-- If you played in a created group with your friend, the game will not reconnect you after this
+- If you played in a created group with your friend, the game will not reconnect you after this*
 
 **So I made this lightweight tool for the community. If it saves your MMR, consider buying me a coffee!**
 
