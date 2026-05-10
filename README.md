@@ -1,4 +1,6 @@
 # ⚡ HS Reconnector & Tracker
+<br>
+<br>
 
 You got tired of buggy HDT(Hearthstone Deck Tracker) plugins:
 - require you to log into Battle.net every time you use them
@@ -6,6 +8,7 @@ You got tired of buggy HDT(Hearthstone Deck Tracker) plugins:
 - If you played in a created group with your friend, the game will not reconnect you after this
 
 **So I made this lightweight tool for the community. If it saves your MMR, consider buying me a coffee!**
+<br>
 ## **[☕ Support me on Donatello](https://donatello.to/ArtDev)**
 
 The **only** Hearthstone Battlegrounds reconnect tool that actually works without kicking you out of your party or Battle.net.
