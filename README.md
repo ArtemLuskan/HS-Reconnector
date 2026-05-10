@@ -1,6 +1,5 @@
 # ⚡ HS Reconnector & Tracker
 <br>
-<br>
 
 You got tired of buggy HDT(Hearthstone Deck Tracker) plugins:
 - require you to log into Battle.net every time you use them
