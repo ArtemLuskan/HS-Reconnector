@@ -29,5 +29,8 @@ Run the tool as **Administrator**, start Hearthstone, and click the floating red
 
 ##
 <img width="631" height="521" alt="image" src="https://github.com/user-attachments/assets/01f6f299-bde8-4e6c-8f83-fb4fe6bb5518" />
+
 <img width="177" height="249" alt="image" src="https://github.com/user-attachments/assets/03e5f85c-6170-4aeb-8866-0a0edb0f2f85" />
-<img width="206" height="36" alt="image" src="https://github.com/user-attachments/assets/8eda5e94-8a24-4d95-a619-cbd132004041" />
+
+<img width="205" height="36" alt="image" src="https://github.com/user-attachments/assets/76d2efaf-208f-4176-9525-1e8f146802d4" />
+
