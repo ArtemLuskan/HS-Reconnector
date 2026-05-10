@@ -21,7 +21,7 @@ The **only** Hearthstone Battlegrounds reconnect tool that actually works withou
 ## 🛠️ How to use
 
 **1. Download**  
-Download `HSReconnector_Setup.exe` from the [Releases](../../releases/latest) tab.  
+***Download*** `HSReconnector_Setup.exe` from the [Releases](../../releases/latest) tab.  
 *(Note: If Windows SmartScreen blocks it, just click **"More info"** -> **"Run anyway"**. It's completely safe).*
 
 **2. Play**  
