@@ -30,8 +30,8 @@ Run the tool as **Administrator**, start Hearthstone, and click the floating red
 
 <br>
 
-## <img width="177" height="249" alt="image" src="https://github.com/user-attachments/assets/03e5f85c-6170-4aeb-8866-0a0edb0f2f85" />
+<img width="177" height="249" alt="image" src="https://github.com/user-attachments/assets/03e5f85c-6170-4aeb-8866-0a0edb0f2f85" />
 
 <br>
 
-## <img width="631" height="521" alt="image" src="https://github.com/user-attachments/assets/01f6f299-bde8-4e6c-8f83-fb4fe6bb5518" /> 
+<img width="631" height="521" alt="image" src="https://github.com/user-attachments/assets/01f6f299-bde8-4e6c-8f83-fb4fe6bb5518" /> 
