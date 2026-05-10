@@ -14,7 +14,7 @@ The **only** Hearthstone Battlegrounds reconnect tool that actually works withou
 ✅ **100% Safe** (Only disconnects the match server, keeps party alive).
 ✅ **Live MMR Tracker** (On-screen widget with Solo/Duos history).
 
-##№ **🛠️ How to use**
+### **🛠️ How to use**
 
 **1. Download**  
 Download `HSReconnectorAndTracker.exe` from the [Releases](../../releases/latest) tab.  
