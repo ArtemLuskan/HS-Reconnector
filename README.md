@@ -22,7 +22,8 @@ Download `HSReconnectorAndTracker.exe` from the [Releases](../../releases/latest
 *(Note: If Windows SmartScreen blocks it, just click **"More info"** -> **"Run anyway"**. It's completely safe).*
 
 **2. Play**  
-Run the tool as **Administrator**, start Hearthstone, and click the floating red button when the Tavern rope burns out! This gives you plenty of time to make your choices in the round
+Run the tool as **Administrator**, start Hearthstone, and click the floating red widget button when the Tavern rope burns out! MMR widget shows your last 10 games<br>
+This gives you plenty of time to make your choices in the round and comfortable statistics
 
 <br>
 
