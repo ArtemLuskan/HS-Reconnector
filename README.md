@@ -1,8 +1,10 @@
 # ⚡ HS Reconnector & Tracker
 
 ## General
-I got tired of buggy HDT(Hearthstone Deck Tracker) plugins, that require me to log into Battle.net every time I use them. And when you use "Reconnect" button it completely crashes the game. 
-If you played in a created group with your friend, the game will not reconnect you after this.
+*You got tired of buggy HDT(Hearthstone Deck Tracker) plugins:*
+*- require you to log into Battle.net every time you use them*
+*-when you use "Reconnect" button it completely crashes the game*
+*-If you played in a created group with your friend, the game will not reconnect you after this*
 
 **So I made this lightweight tool for the community. If it saves your MMR, consider buying me a coffee!**
 
@@ -11,10 +13,9 @@ If you played in a created group with your friend, the game will not reconnect y
 
 The **only** Hearthstone Battlegrounds reconnect tool that actually works without kicking you out of your party or Battle.net.
 
-✅ **Instant Reconnect** (Zero wait time).
+✅ **Instant Reconnect** (~Zero wait time).
 ✅ **100% Safe** (Only disconnects the match server, keeps party alive).
 ✅ **Live MMR Tracker** (On-screen widget with Solo/Duos history).
-✅ **Zero Setup Required** (Just run it and play).
 
 ---
 
@@ -25,7 +26,7 @@ The **only** Hearthstone Battlegrounds reconnect tool that actually works withou
 *(Note: If Windows SmartScreen blocks it, just click **"More info"** -> **"Run anyway"**. It's completely safe).*
 
 **2. Play**  
-Run the tool as **Administrator**, start Hearthstone, and click the floating red button when the Tavern rope burns out!
+Run the tool as **Administrator**, start Hearthstone, and click the floating red button when the Tavern rope burns out! This gives you plenty of time to make your choices in the round
 
 ##
 <img width="631" height="521" alt="image" src="https://github.com/user-attachments/assets/01f6f299-bde8-4e6c-8f83-fb4fe6bb5518" />
