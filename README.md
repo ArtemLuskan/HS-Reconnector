@@ -1,8 +1,7 @@
 # ⚡ HS Reconnector & Tracker
-****
-****
-****
-## **# General**
+
+# General
+---
 You got tired of buggy HDT(Hearthstone Deck Tracker) plugins:
 - require you to log into Battle.net every time you use them
 - when you use "Reconnect" button it completely crashes the game
@@ -28,7 +27,7 @@ Download `HSReconnectorAndTracker.exe` from the [Releases](../../releases/latest
 
 **2. Play**  
 Run the tool as **Administrator**, start Hearthstone, and click the floating red button when the Tavern rope burns out! This gives you plenty of time to make your choices in the round
----
+
 ## <img width="205" height="36" alt="image" src="https://github.com/user-attachments/assets/76d2efaf-208f-4176-9525-1e8f146802d4" />
 
 ## <img width="177" height="249" alt="image" src="https://github.com/user-attachments/assets/03e5f85c-6170-4aeb-8866-0a0edb0f2f85" />
