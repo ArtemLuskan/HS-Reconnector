@@ -6,13 +6,13 @@ You got tired of buggy HDT(Hearthstone Deck Tracker) plugins:
 - If you played in a created group with your friend, the game will not reconnect you after this
 
 **So I made this lightweight tool for the community. If it saves your MMR, consider buying me a coffee!**
-*The **only** Hearthstone Battlegrounds reconnect tool that actually works without kicking you out of your party or Battle.net.*
+## **[☕ Support me on Donatello](https://donatello.to/ArtDev)**
+
+The **only** Hearthstone Battlegrounds reconnect tool that actually works without kicking you out of your party or Battle.net.
 
 ✅ **Instant Reconnect** (~Zero wait time).
 ✅ **100% Safe** (Only disconnects the match server, keeps party alive).
 ✅ **Live MMR Tracker** (On-screen widget with Solo/Duos history).
-
-## **[☕ Support me on Donatello](https://donatello.to/ArtDev)**
 
 ## **🛠️ How to use**
 
