@@ -1,7 +1,7 @@
 # ⚡ HS Reconnector & Tracker
 
 ## ☕ Support the Developer
-I got tired of buggy HDT(Hearthstone Deck Tracker) plugins, which requires you to log in to Battle.net every time and when you use Reconnect it completely crashes the game. 
+I got tired of buggy HDT(Hearthstone Deck Tracker) plugins, which requires you to log in to Battle.net every time and when you use "Reconnect" button it completely crashes the game. 
 If you played in a created group with your friend, the game will not reconnect you after this.
 So I made this lightweight tool for the community. If it saves your MMR, consider buying me a coffee!
 
