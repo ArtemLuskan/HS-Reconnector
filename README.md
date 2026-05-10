@@ -32,22 +32,20 @@ This gives you plenty of time to make your choices in the round and comfortable 
     <td><img width="205" height="36" alt="image" src="https://github.com/user-attachments/assets/76d2efaf-208f-4176-9525-1e8f146802d4" /></td>
     <td><img width="205" height="35" alt="image" src="https://github.com/user-attachments/assets/93bf2763-6bcd-4ee0-8713-3f866292119f" /></td>
   </tr>
+    <td><img width="631" height="521" alt="image" src="https://github.com/user-attachments/assets/01f6f299-bde8-4e6c-8f83-fb4fe6bb5518" /> </td>
+      
+  <tr>
+  </tr>
 </table>
 
- 
-
 <br>
 
-
-
-
-<br>
 
 <img width="177" height="249" alt="image" src="https://github.com/user-attachments/assets/03e5f85c-6170-4aeb-8866-0a0edb0f2f85" />
 
 <br>
 
-<img width="631" height="521" alt="image" src="https://github.com/user-attachments/assets/01f6f299-bde8-4e6c-8f83-fb4fe6bb5518" /> 
+
 
 <br>
 
